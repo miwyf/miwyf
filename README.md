@@ -1,5 +1,5 @@
 
-## Hey, MiWyf here! :wave: <p align="right">![visitors](https://visitor-badge.glitch.me/badge?page_id=miwyf.miwyf)</p>
+## Hey, MiWyf here! :wave: 					[visitors](https://visitor-badge.glitch.me/badge?page_id=miwyf.miwyf)
 
 [<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=miwyf&theme=dark&show_icons=miwyf">](https://metrics.lecoq.io/miwyf#gh-dark-mode-only)
 [<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=miwyf&show_icons=miwyf">](https://metrics.lecoq.io/miwyf#gh-light-mode-only)
