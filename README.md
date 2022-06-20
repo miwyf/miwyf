@@ -1,230 +1,49 @@
-<!--
+### hey there 
 
-Thank you if you like this profile README!
+![](https://visitor-badge.glitch.me/badge?page_id=miwyf.miwyf)
 
-BUT, please DO NOT copy this and create your profile based on it.
+<br />
 
-You can use it as a reference, and copy a part of it, but DO NOT copy
-all of this and create your profile based on it.
+**languages and tools:**  
 
-It is very common that you forget to change some information and leave
-mine in your profile. This has happened too many times.
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
-And, this profile README is auto-updated by GitHub Actions, you can read
-[the official documentation](https://docs.github.com/actions) to learn
-how to use it.
-
-Only when you know what you are copying should you paste it. So, again,
-please DO NOT copy this and create your profile based on it.
-
-What's more, you can find other awesome profile READMEs at
-https://github.com/abhisheknaiidu/awesome-github-profile-readme. There
-could be a profile README that fits you better than this one.
-
-Wish you a good-looking profile README!
-
-                                   —— MiWyf (https://github.com/miwyf)
-
--->
-
-## Hey, MiWyf here! :wave:
-
-[<img align="right" width="50%" src="https://github-readme-stats-miwyf.vercel.app/api?username=miwyf&theme=dark&show_icons=true">](https://metrics.lecoq.io/miwyf#gh-dark-mode-only)
-[<img align="right" width="50%" src="https://github-readme-stats-miwyf.vercel.app/api?username=miwyf&show_icons=true">](https://metrics.lecoq.io/miwyf#gh-light-mode-only)
-
-I'm M**i**W**yf**.
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
----
-
-#### :sparkles: [My followers](src/getTopFollowers.py)
-
-<!--START_SECTION:top-followers-->
-
-<table>
-  <tr>
-    <td align="center">
-      <a href="https://github.com/wizardforcel">
-        <img src="https://avatars2.githubusercontent.com/u/5080126" width="100px;" alt="wizardforcel"/>
-      </a>
-      <br />
-      <a href="https://github.com/wizardforcel">布客飞龙</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/gaocegege">
-        <img src="https://avatars2.githubusercontent.com/u/5100735" width="100px;" alt="gaocegege"/>
-      </a>
-      <br />
-      <a href="https://github.com/gaocegege">Ce Gao</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/webpointdev">
-        <img src="https://avatars2.githubusercontent.com/u/88071912" width="100px;" alt="webpointdev"/>
-      </a>
-      <br />
-      <a href="https://github.com/webpointdev">New Dragon Warrior</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/mashirozx">
-        <img src="https://avatars2.githubusercontent.com/u/16148054" width="100px;" alt="mashirozx"/>
-      </a>
-      <br />
-      <a href="https://github.com/mashirozx">Mashiro</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/lzwjava">
-        <img src="https://avatars2.githubusercontent.com/u/5022872" width="100px;" alt="lzwjava"/>
-      </a>
-      <br />
-      <a href="https://github.com/lzwjava">lzwjava</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/Ir1d">
-        <img src="https://avatars2.githubusercontent.com/u/10709657" width="100px;" alt="Ir1d"/>
-      </a>
-      <br />
-      <a href="https://github.com/Ir1d">Dejia Xu</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/hua1995116">
-        <img src="https://avatars2.githubusercontent.com/u/12070073" width="100px;" alt="hua1995116"/>
-      </a>
-      <br />
-      <a href="https://github.com/hua1995116">蓝色的秋风</a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <a href="https://github.com/lowlighter">
-        <img src="https://avatars2.githubusercontent.com/u/22963968" width="100px;" alt="lowlighter"/>
-      </a>
-      <br />
-      <a href="https://github.com/lowlighter">Simon Lecoq</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/zTrix">
-        <img src="https://avatars2.githubusercontent.com/u/471934" width="100px;" alt="zTrix"/>
-      </a>
-      <br />
-      <a href="https://github.com/zTrix">Wenlei Zhu</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/Trumeet">
-        <img src="https://avatars2.githubusercontent.com/u/17158086" width="100px;" alt="Trumeet"/>
-      </a>
-      <br />
-      <a href="https://github.com/Trumeet">Yuuta Liang</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/gdut-yy">
-        <img src="https://avatars2.githubusercontent.com/u/33390928" width="100px;" alt="gdut-yy"/>
-      </a>
-      <br />
-      <a href="https://github.com/gdut-yy">张逸扬</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/EndlessCheng">
-        <img src="https://avatars2.githubusercontent.com/u/7086966" width="100px;" alt="EndlessCheng"/>
-      </a>
-      <br />
-      <a href="https://github.com/EndlessCheng">灵茶山艾府（0x3F）</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/guofei9987">
-        <img src="https://avatars2.githubusercontent.com/u/19920283" width="100px;" alt="guofei9987"/>
-      </a>
-      <br />
-      <a href="https://github.com/guofei9987">郭飞</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/Fantasy9527">
-        <img src="https://avatars2.githubusercontent.com/u/9129438" width="100px;" alt="Fantasy9527"/>
-      </a>
-      <br />
-      <a href="https://github.com/Fantasy9527">No.142857</a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <a href="https://github.com/tengge1">
-        <img src="https://avatars2.githubusercontent.com/u/10705556" width="100px;" alt="tengge1"/>
-      </a>
-      <br />
-      <a href="https://github.com/tengge1">tengge1</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/Konano">
-        <img src="https://avatars2.githubusercontent.com/u/22500116" width="100px;" alt="Konano"/>
-      </a>
-      <br />
-      <a href="https://github.com/Konano">Nano</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/cubercsl">
-        <img src="https://avatars2.githubusercontent.com/u/22931465" width="100px;" alt="cubercsl"/>
-      </a>
-      <br />
-      <a href="https://github.com/cubercsl">cubercsl</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/xtlsoft">
-        <img src="https://avatars2.githubusercontent.com/u/16159830" width="100px;" alt="xtlsoft"/>
-      </a>
-      <br />
-      <a href="https://github.com/xtlsoft">Tianle Xu</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/Clansty">
-        <img src="https://avatars2.githubusercontent.com/u/18461360" width="100px;" alt="Clansty"/>
-      </a>
-      <br />
-      <a href="https://github.com/Clansty">凌莞~(=^▽^=)</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/WBGlIl">
-        <img src="https://avatars2.githubusercontent.com/u/29301859" width="100px;" alt="WBGlIl"/>
-      </a>
-      <br />
-      <a href="https://github.com/WBGlIl">WBGlIl</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/iBug">
-        <img src="https://avatars2.githubusercontent.com/u/7273074" width="100px;" alt="iBug"/>
-      </a>
-      <br />
-      <a href="https://github.com/iBug">iBug</a>
-    </td>
-  </tr>
-</table>
-<!--END_SECTION:top-followers-->
-
----
-
-#### :bar_chart: [Monthly coding time](https://github.com/muety/wakapi)
-
+📊 **this week i spent my time on:**
 <!--START_SECTION:waka-->
 
 ```text
-Markdown      25 hrs 17 mins  🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟨⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   54.70 %
-Python        3 hrs 54 mins   🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   08.45 %
-C++           3 hrs 23 mins   🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   07.31 %
-unknown       2 hrs 19 mins   🟩🟨⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   05.01 %
-JavaScript    2 hrs 4 mins    🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   04.48 %
-HTML          1 hrs 47 mins   🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   03.85 %
+TypeScript   4 hrs 37 mins   ███████████████░░░░░░░░░░   60.47 %
+JavaScript   2 hrs 20 mins   ███████▓░░░░░░░░░░░░░░░░░   30.64 %
+CSS          21 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.58 %
+HTML         18 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.94 %
+JSON         1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.37 %
 ```
 
 <!--END_SECTION:waka-->
 
----
 
-#### :star2: [Projects starred by me](https://github.com/maguowei/starred)
+🚧 **my todoist stats:**
+<!-- TODO-IST:START -->
+🏆  7,995 Karma Points           
+🌸  Completed 0 tasks today           
+✅  Completed 673 tasks so far           
+⏳  Longest streak is 10 days
+<!-- TODO-IST:END -->
 
-[My Awesome Stars](AWESOME-STARS.md)
+
+📈 my github stats
+
+<p align="right"> <img src="https://github-readme-stats.vercel.app/api?username=miwyf&show_icons=true&theme=gotham" alt="miwyf" />
+
+
+
+
