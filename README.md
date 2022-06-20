@@ -1,8 +1,9 @@
-### hey there 
 
-![](https://visitor-badge.glitch.me/badge?page_id=miwyf.miwyf)
+## Hey, MiWyf here! :wave: ![](https://visitor-badge.glitch.me/badge?page_id=miwyf.miwyf)
 
-<br />
+[<img align="right" width="50%" src="https://github-readme-stats-ouuan.vercel.app/api?username=miwyf&theme=dark&show_icons=miwyf">](https://metrics.lecoq.io/miwyf#gh-dark-mode-only)
+[<img align="right" width="50%" src="https://github-readme-stats-ouuan.vercel.app/api?username=ouuan&show_icons=miwyf">](https://metrics.lecoq.io/miwyf#gh-light-mode-only)
+
 
 **languages and tools:**  
 
@@ -29,7 +30,7 @@ JSON         1 min           ░░░░░░░░░░░░░░░░░
 ```
 
 <!--END_SECTION:waka-->
-
+---
 
 🚧 **my todoist stats:**
 <!-- TODO-IST:START -->
@@ -42,7 +43,7 @@ JSON         1 min           ░░░░░░░░░░░░░░░░░
 
 📈 my github stats
 
-<p align="right"> <img src="https://github-readme-stats.vercel.app/api?username=miwyf&show_icons=true&theme=gotham" alt="miwyf" />
+
 
 
 
