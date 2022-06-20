@@ -2,9 +2,9 @@ name: Todoist Readme
 
 on:
   workflow_dispatch:
-  schedule:
+  #schedule:
     # Runs every minute
-    - cron: "* * * * *"
+    #- cron: "* * * * *"
       
 jobs:
   update-readme:
