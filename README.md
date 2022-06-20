@@ -1,9 +1,19 @@
 
 ## Hey, MiWyf here! :wave: ![](https://visitor-badge.glitch.me/badge?page_id=miwyf.miwyf)
 
-[<img align="right" width="50%" src="https://github-readme-stats-ouuan.vercel.app/api?username=miwyf&theme=dark&show_icons=miwyf">](https://metrics.lecoq.io/miwyf#gh-dark-mode-only)
-[<img align="right" width="50%" src="https://github-readme-stats-ouuan.vercel.app/api?username=ouuan&show_icons=miwyf">](https://metrics.lecoq.io/miwyf#gh-light-mode-only)
+[<img align="right" width="50%" src="https://github-readme-stats-miwyf.vercel.app/api?username=miwyf&theme=dark&show_icons=miwyf">](https://metrics.lecoq.io/miwyf#gh-dark-mode-only)
+[<img align="right" width="50%" src="https://github-readme-stats-miwyf.vercel.app/api?username=miwyf&show_icons=miwyf">](https://metrics.lecoq.io/miwyf#gh-light-mode-only)
 
+
+🚧 **my todoist stats:**
+<!-- TODO-IST:START -->
+🏆  7,995 Karma Points           
+🌸  Completed 0 tasks today           
+✅  Completed 673 tasks so far           
+⏳  Longest streak is 10 days
+<!-- TODO-IST:END -->
+
+---
 
 **languages and tools:**  
 
@@ -30,18 +40,9 @@ JSON         1 min           ░░░░░░░░░░░░░░░░░
 ```
 
 <!--END_SECTION:waka-->
----
-
-🚧 **my todoist stats:**
-<!-- TODO-IST:START -->
-🏆  7,995 Karma Points           
-🌸  Completed 0 tasks today           
-✅  Completed 673 tasks so far           
-⏳  Longest streak is 10 days
-<!-- TODO-IST:END -->
 
 
-📈 my github stats
+
 
 
 
